@@ -1,2 +1,2 @@
 # Edison-Teacher-Salaries
-A Python Project to take a look at Edison Teacher salaries 
+A Python Project to take a look at Edison Teacher salaries. This project looks at the kaggle datset (url: https://www.kaggle.com/sheilnaik/nj-teacher-salaries-2016), which gives teacher salaries, along with other factors such as education, experience, and job title. This project focuses in on teachers in Edison, NJ (my hometown) and looks at the two high schools in the district. The libraries used in the project are numpy, matplotlib, and pandas. 
